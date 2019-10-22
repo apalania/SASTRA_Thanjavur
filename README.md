@@ -20,4 +20,4 @@ SASTRA Deemed University
 Thanjavur, Tamil Nadu 613401
 INDIA
 
-Licence under MIT License
+
